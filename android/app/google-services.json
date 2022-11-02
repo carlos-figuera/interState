@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "311814813294",
+    "firebase_url": "https://interstate-79d73.firebaseio.com",
+    "project_id": "interstate-79d73",
+    "storage_bucket": "interstate-79d73.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311814813294:android:ca8ce6867ba0fdab6d987f",
+        "android_client_info": {
+          "package_name": "com.interstate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311814813294-ngi7u9rcfitdkidcsnfn2uqb9d8jpjb4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvouvSMo1e9LK13uz-Bj68sa8bdQA3Z0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311814813294-ngi7u9rcfitdkidcsnfn2uqb9d8jpjb4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
